@@ -1,12 +1,10 @@
 <script setup lang="ts">
 
-
-import Father from "@/components/Father.vue";
+import Person from "@/components/Person.vue";
 </script>
 
 <template>
-  <Father></Father>
-
+<Person></Person>
 </template>
 
 <style scoped>
